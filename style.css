@@ -1,0 +1,16 @@
+.seila{
+background-color: aliceblue;
+width: 120px;
+height: 130px;
+}
+.seilat{
+    background-color: rgb(209, 209, 236);
+
+}
+.seilar{
+    background-color: rgb(255, 248, 248) ;
+}
+.pai{
+    display: flex;
+    flex-direction: row;
+}
